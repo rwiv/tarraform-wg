@@ -1,7 +1,7 @@
 variable "ssh_key_ids" {
-    type = list(string)
+  type = list(string)
 }
 
 variable "firewall_group_id" {
-    type = string
+  type = string
 }

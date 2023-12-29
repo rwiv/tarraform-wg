@@ -1,7 +1,7 @@
 variable "vultr_api_key" {
-    type = string
+  type = string
 }
 
 variable "my_public_ip" {
-    type = string
+  type = string
 }
